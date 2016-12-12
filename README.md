@@ -1,4 +1,6 @@
 
+This project was developed as part of the advanced akka training course by LightBend.
+
 ## Cluster Sharding 
 
 Horizontally partioning actors into many smaller sets possibly in different physical locations. This allows the actors to balance resources across multiple shards for scalability. 
